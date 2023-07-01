@@ -62,16 +62,16 @@
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] (HTML/CSS): Create a selection of Pokemon to choose from
-        - Each pokemon should have a "super/regular/weak" move
-        - Each pokemon should have an hp of 100
-- [ ] (HTML/CSS): Player 1 and Player 2 slot for chosen pokemon
-- [ ] (HTML/CSS/JS): Fight
-        - Create a fight button
-        - Fight button should randomly choose which attack to use during game
-- [ ] (HTML/CSS/JS): End Game
-    - [ ] Once a pokemon reaches 0, game over
 
+- [ ] (HTML/CSS): Create a homescreen
+        - Style like a pokedex
+            - Red background
+            - Grayed out center
+        - Pokemon Logo
+        - Search Bar
+- [ ] (HTML/CSS/JS): Search for Pokemon
+        - Populate search field with a pokemon which should spit back its stats:
+            - Name, Type, Weight, Height, etc.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
