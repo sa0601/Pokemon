@@ -73,6 +73,11 @@
         - Populate search field with a pokemon which should spit back its stats:
             - Name, Type, Weight, Height, etc.
 
+## Wire Frame
+![Wire Frame-1](Images/Wire%20Frame-1.jpg)
+![Wire Frame-2](Images/Wire%20Frame-2.jpg)
+![Wire Frame-3](Images/Wire%20Frame-3.jpg)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
