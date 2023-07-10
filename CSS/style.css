@@ -1,0 +1,53 @@
+
+
+
+#title {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: rgba(255, 255, 0, 0.938);
+    outline-color: blue;
+};
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+
+
+#form {
+    text-align: center;
+}
+
+ h2 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Pokemon Solid', sans-serif;
+    color: rgba(255, 255, 255, 0.802);
+    opacity: 100%
+ }
+
+ #name {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Pokemon Solid';
+    color:rgba(255, 255, 255, 0.802);
+    opacity: 100%;
+ }
+
+ #img {
+    text-align: center;
+    height: auto;
+    max-width: 100%;
+ }
+
+ #baseStats {
+    text-align: center;
+    font-size: large;
+    font-family: 'Courier New';
+    color: rgba(255, 255, 255, 0.802);;
+ }
