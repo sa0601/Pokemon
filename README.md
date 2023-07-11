@@ -1,12 +1,6 @@
-<div id="top"></div>
 
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Pokedex</h3>
 
   <p align="center">
     Pokedex
@@ -50,11 +44,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<p>This is a google-search style Pokedex which allows you to type in the name or id number of a pokemon. This spits out the name, the normal and shiny image of the pokemon, as well as some basic stats.</p>
 
 `github - sa0601`
 `repo - Pokemon`
 `Pokemon Game`
-`Choose between various pokemon and have them battle it out!`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
